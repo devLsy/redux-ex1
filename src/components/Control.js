@@ -21,9 +21,7 @@ export default class Control extends Component {
 
     constructor(props) {
         super(props);
-        this.state = {
 
-        }
     }
 
 
