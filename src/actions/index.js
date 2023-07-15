@@ -12,7 +12,7 @@ export function decrement() {
     };
 }
 
-export function set_color(color) {
+export function setColor(color) {
     return {
         type: types.SET_COLOR,
         color
